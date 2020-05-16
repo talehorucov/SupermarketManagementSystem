@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\bin\Debug\Market.ORM.dll
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\bin\Debug\Market.ORM.pdb
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\obj\Debug\Market.ORM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\obj\Debug\Market.ORM.dll
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\obj\Debug\Market.ORM.pdb
+C:\Users\User\source\repos\MarketManagementSystem\Market.ORM\obj\Debug\Market.ORM.csprojAssemblyReference.cache
