@@ -1,2 +1,22 @@
 # SupermarketManagementSystem
 Proyekt C# programlaşdırma dilindən istifadə edilərək, həmçinin OOP prinsipləri və ADO.NET-ə bağlı olaraq yazılmışdır. Verilənlər bazası olaraq MSSQL-dən istifadə edilmişdir
+
+![Login](https://user-images.githubusercontent.com/65248160/84403439-c2761d00-ac16-11ea-9275-09ecda680d15.png)
+![Sale](https://user-images.githubusercontent.com/65248160/84403479-cd30b200-ac16-11ea-920e-6fd4de72db9e.png)
+![Add_Product](https://user-images.githubusercontent.com/65248160/84403533-dcaffb00-ac16-11ea-8d68-809c00432d9a.png)
+![Add_Category](https://user-images.githubusercontent.com/65248160/84403564-e5a0cc80-ac16-11ea-804b-6c020d4618bb.png)
+![Add_UnitType](https://user-images.githubusercontent.com/65248160/84403578-e9345380-ac16-11ea-872c-da65d725941b.png)
+![Add_Employee](https://user-images.githubusercontent.com/65248160/84403607-f0f3f800-ac16-11ea-921d-f05982eee7c4.png)
+![Add_Position](https://user-images.githubusercontent.com/65248160/84403612-f3eee880-ac16-11ea-8cd8-56681a3b5b8c.png)
+![Add_Supplier](https://user-images.githubusercontent.com/65248160/84403625-f7826f80-ac16-11ea-81bf-44b56af06ee2.png)
+![Add_Cash](https://user-images.githubusercontent.com/65248160/84403635-fa7d6000-ac16-11ea-92ae-ef9e6fc31d65.png)
+![Product](https://user-images.githubusercontent.com/65248160/84403649-fe10e700-ac16-11ea-834a-59147331d858.png)
+![Employee](https://user-images.githubusercontent.com/65248160/84403674-05d08b80-ac17-11ea-8ab6-751b5bc8fb50.png)
+![Supplier](https://user-images.githubusercontent.com/65248160/84403692-0832e580-ac17-11ea-869f-2ab5c4586e3a.png)
+![Position](https://user-images.githubusercontent.com/65248160/84403707-0bc66c80-ac17-11ea-82bd-b892986ee8dd.png)
+![Category](https://user-images.githubusercontent.com/65248160/84403720-12ed7a80-ac17-11ea-8126-8cf17f88f0ea.png)
+![Cash_Register](https://user-images.githubusercontent.com/65248160/84403733-154fd480-ac17-11ea-9f2a-b8764c882ee4.png)
+![Unit_Type](https://user-images.githubusercontent.com/65248160/84403742-17199800-ac17-11ea-9899-17551eee748e.png)
+![Return](https://user-images.githubusercontent.com/65248160/84403754-1b45b580-ac17-11ea-8ac5-908a457c2ab1.png)
+![Order](https://user-images.githubusercontent.com/65248160/84403761-1da80f80-ac17-11ea-92a7-c44c95761cdd.png)
+![Statistics](https://user-images.githubusercontent.com/65248160/84403771-20a30000-ac17-11ea-99f0-57769a289c83.png)
